@@ -5,3 +5,5 @@ for i in a:
 
 for i in range(len(a)):
 	print(a[i], 'index:', i)
+
+print('Complite!')
